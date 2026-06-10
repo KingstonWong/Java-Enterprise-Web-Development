@@ -1,0 +1,5 @@
+{
+  "name": "Generated Library Management - Part 3",
+  "description": "1. View Books Page \n2. Book Details Page - Including Review Book Function\n3. Borrowed Book Page - Current Borrowing Book\n4. Borrowed Book History Page\n5. Pending Book Request Page\n6. Overdue Fine Page\n7. Profile Page \n8. Update Profile Page\n9. Change Password Page",
+  "requestFramePermissions": []
+}

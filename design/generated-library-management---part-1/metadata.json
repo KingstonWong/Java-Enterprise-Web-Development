@@ -1,0 +1,5 @@
+{
+  "name": "Generated Library Management - Part 1",
+  "description": "1. Member Management Page - Add, Edit & Delete Page\n2. Inventory Management Page (Books) - Add, Edit & Delete Page\n3. Borrowed Records Page\n4. Pending Request Page - Including Confirm Pickup Page\n5. Walk-In Borrow Book Page \n6. Return Book Page\n7. Fine Management Page",
+  "requestFramePermissions": []
+}
