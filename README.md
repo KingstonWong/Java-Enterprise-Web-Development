@@ -15,9 +15,10 @@ In addition, the system incorporates QR Code technology to improve operational e
 The project is developed using the following technologies:
 
 * Java
-* C#
+* Tomcat
 * HTML
 * CSS
+* C#
 * REST APIs
 * Entity Framework Core
 * SQL Server
